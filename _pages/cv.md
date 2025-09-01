@@ -11,54 +11,74 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Finance, Carroll School of Management, 2029
+* International M.S. in Finance, Católica Lisbon School of Business and Economics, 2024
+* B.S. in Economics, Católica Lisbon School of Business and Economics, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2022: Risk Management Summer Internship
+  * Banco Português de Gestão
+ 
+* Fall 2022 - Spring 2023: Research Fellow
+  * Católica Lisbon School of Business and Economics
+  * Duties included: Data cleaning and handling, econometric analysis
+  * Supervisor: Mário Meira
+ 
+* Spring 2023: Teaching Assistant
+  * Católica Lisbon School of Business and Economics
+  * Duties included: TA of Public Economics
+  * Supervisor: Miguel Gouveia
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Corporate Banking Summer Internship
+  * Citibank, Madrid
+ 
+* Spring 2024: Research Assistant
+  * Católica Lisbon School of Business and Economics
+  * Duties includes: Data cleaning and handling, econometric analysis, literature review
+  * Supervisor: Mário Meira
+ 
+* Spring 2024: Teaching Assistant
+  * Católica Lisbon School of Business and Economics
+  * Duties includes: TA of Empirical Finance and Portfolio Management and Sustainability
+  * Supervisor: José Faias and António Baldaque da Silva
+ 
+* Summer 2024: Investment Banking Summer Internship
+  * BNP Paribas, Lisbon
+ 
+* Fall 2024: Teaching Assistant
+  * Católica Lisbon School of Business and Economics
+  * Duties includes: TA of Data Science for Finance
+  * Supervisor: José Faias
+ 
+* Fall 2024 - Winter 2025: Derivative Valuation Specialist
+  * Deloitte, Luxembourg
+ 
+* Fall 2024 - Spring 2025: Research Assistant
+  * Católica Lisbon School of Business and Economics
+  * Duties includes: cooperation in research project for publication
+  * Supervisor: José Faias
+ 
+* Spring 2025: Teaching Assistant
+  * Católica Lisbon School of Business and Economics
+  * Duties includes: TA of Empirical Finance, Private Equity, Cases in Corporate Finance and Portfolio Management and Sustainability
+  * Supervisor: José Faias, Vasco D'Orey, Manuel Rodrigues and António Baldaque da Silva
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language Skills
+  * Portuguese (Native)
+  * English (Fluent)
+  * Spanish (Fluent)
+  * French (Intermediate)
+* Programming Skills
+  * Stata (Proficient)
+  * VBA (Proficient)
+  * Python (Intermediate)
+  * R (Basic)
+* Data Providers Used
+  * FactSet
+  * Reuters
+  * WRDS
+  * Bloomberg
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
