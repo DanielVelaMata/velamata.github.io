@@ -27,9 +27,11 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Finance"
   location         : "Boston College"
-  employer         : "Carroll School of Management"
+  employer         : |
+                     "Carroll School of Management
+                     Seidner Department of Finance"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "matada@bc.edu" 
 
   # Academic websites
   academia         : # URL
